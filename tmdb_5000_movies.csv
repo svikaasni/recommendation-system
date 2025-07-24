@@ -1,0 +1,3 @@
+movie_id,title,overview,genres,keywords,cast,crew
+1,Inception,Dream stealing,"[{""id"": 1, ""name"": ""Sci-Fi""}]","[{""name"": ""dream""}]","[{""name"": ""Leonardo DiCaprio""}]","[{""job"": ""Director"", ""name"": ""Christopher Nolan""}]"
+2,Interstellar,Space travel,"[{""id"": 1, ""name"": ""Adventure""}]","[{""name"": ""space""}]","[{""name"": ""Matthew McConaughey""}]","[{""job"": ""Director"", ""name"": ""Christopher Nolan""}]"
