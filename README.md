@@ -1,5 +1,13 @@
 # Advanced Movie Recommendation System 🎬
 
+---
+
+- NAME : S VIKAASNI
+- COMPANY : CodSoft
+- ID : CS25RY74929
+- DOMAIN : Artificial Intelligence
+- TASK NO : Task 4
+
 ## 🚀 Overview
 This project is an advanced **Content-Based Movie Recommendation System** using NLP techniques. It combines metadata from movies including genres, keywords, cast, crew, and overview to generate accurate movie suggestions.
 
